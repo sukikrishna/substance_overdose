@@ -1,0 +1,117 @@
+"Notes"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Jan., 2015"	"2015/01"	536	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	602	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	691	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	609	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	598	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	543	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	627	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	627	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	617	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	664	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	625	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	654	Not Applicable	Not Applicable
+	"Jan., 2016"	"2016/01"	688	Not Applicable	Not Applicable
+	"Feb., 2016"	"2016/02"	788	Not Applicable	Not Applicable
+	"Mar., 2016"	"2016/03"	907	Not Applicable	Not Applicable
+	"Apr., 2016"	"2016/04"	868	Not Applicable	Not Applicable
+	"May, 2016"	"2016/05"	850	Not Applicable	Not Applicable
+	"Jun., 2016"	"2016/06"	834	Not Applicable	Not Applicable
+	"Jul., 2016"	"2016/07"	1050	Not Applicable	Not Applicable
+	"Aug., 2016"	"2016/08"	1010	Not Applicable	Not Applicable
+	"Sep., 2016"	"2016/09"	1013	Not Applicable	Not Applicable
+	"Oct., 2016"	"2016/10"	1039	Not Applicable	Not Applicable
+	"Nov., 2016"	"2016/11"	1046	Not Applicable	Not Applicable
+	"Dec., 2016"	"2016/12"	1095	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	1189	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	1117	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	1252	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	1289	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	1228	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	1273	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	1235	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	1312	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	1247	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	1204	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	1183	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	1312	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	1265	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	1191	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	1396	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	1350	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	1413	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	1407	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	1360	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	1340	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	1236	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	1271	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	1145	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	1220	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	1210	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	1181	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	1346	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	1322	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	1406	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	1392	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	1464	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	1509	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	1416	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	1559	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	1549	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	1529	Not Applicable	Not Applicable
+	"Jan., 2020 "	"2020/01"	1554	Not Applicable	Not Applicable
+	"Feb., 2020 "	"2020/02"	1600	Not Applicable	Not Applicable
+	"Mar., 2020 "	"2020/03"	1838	Not Applicable	Not Applicable
+	"Apr., 2020 "	"2020/04"	1997	Not Applicable	Not Applicable
+	"May, 2020 "	"2020/05"	2200	Not Applicable	Not Applicable
+	"Jun., 2020 "	"2020/06"	1812	Not Applicable	Not Applicable
+	"Jul., 2020 "	"2020/07"	1732	Not Applicable	Not Applicable
+	"Aug., 2020 "	"2020/08"	1660	Not Applicable	Not Applicable
+	"Sep., 2020 "	"2020/09"	1605	Not Applicable	Not Applicable
+	"Oct., 2020 "	"2020/10"	1534	Not Applicable	Not Applicable
+	"Nov., 2020 "	"2020/11"	1456	Not Applicable	Not Applicable
+	"Dec., 2020 "	"2020/12"	1504	Not Applicable	Not Applicable
+"Total"			86391	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: T40.5 (Cocaine)"
+"Year/Month: 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 30, 2022 3:28:51 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 30, 2022 3:28:51 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

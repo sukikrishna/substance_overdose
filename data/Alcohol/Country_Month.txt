@@ -1,0 +1,103 @@
+"Notes"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Jan., 2015"	"2015/01"	1139	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	1023	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	1086	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	1016	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	1087	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	1068	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	1156	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	1089	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	1064	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	1074	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	1025	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	1103	Not Applicable	Not Applicable
+	"Jan., 2016"	"2016/01"	1264	Not Applicable	Not Applicable
+	"Feb., 2016"	"2016/02"	1058	Not Applicable	Not Applicable
+	"Mar., 2016"	"2016/03"	1228	Not Applicable	Not Applicable
+	"Apr., 2016"	"2016/04"	1257	Not Applicable	Not Applicable
+	"May, 2016"	"2016/05"	1228	Not Applicable	Not Applicable
+	"Jun., 2016"	"2016/06"	1213	Not Applicable	Not Applicable
+	"Jul., 2016"	"2016/07"	1263	Not Applicable	Not Applicable
+	"Aug., 2016"	"2016/08"	1198	Not Applicable	Not Applicable
+	"Sep., 2016"	"2016/09"	1167	Not Applicable	Not Applicable
+	"Oct., 2016"	"2016/10"	1195	Not Applicable	Not Applicable
+	"Nov., 2016"	"2016/11"	1187	Not Applicable	Not Applicable
+	"Dec., 2016"	"2016/12"	1295	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	1367	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	1193	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	1301	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	1215	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	1270	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	1240	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	1327	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	1268	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	1299	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	1229	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	1210	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	1370	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	1312	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	1138	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	1307	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	1213	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	1301	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	1304	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	1317	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	1249	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	1275	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	1207	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	1182	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	1319	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	1354	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	1176	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	1333	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	1244	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	1317	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	1361	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	1407	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	1409	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	1354	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	1359	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	1394	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	1503	Not Applicable	Not Applicable
+	"Jan., 2020 "	"2020/01"	1414	Not Applicable	Not Applicable
+	"Feb., 2020 "	"2020/02"	1372	Not Applicable	Not Applicable
+	"Mar., 2020 "	"2020/03"	1535	Not Applicable	Not Applicable
+	"Apr., 2020 "	"2020/04"	1573	Not Applicable	Not Applicable
+	"May, 2020 "	"2020/05"	2024	Not Applicable	Not Applicable
+	"Jun., 2020 "	"2020/06"	1905	Not Applicable	Not Applicable
+	"Jul., 2020 "	"2020/07"	1927	Not Applicable	Not Applicable
+	"Aug., 2020 "	"2020/08"	1819	Not Applicable	Not Applicable
+	"Sep., 2020 "	"2020/09"	1617	Not Applicable	Not Applicable
+	"Oct., 2020 "	"2020/10"	1648	Not Applicable	Not Applicable
+	"Nov., 2020 "	"2020/11"	1592	Not Applicable	Not Applicable
+	"Dec., 2020 "	"2020/12"	1650	Not Applicable	Not Applicable
+"Total"			94183	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F10.0 (Mental and behavioural disorders due to use of alcohol, acute intoxication); T51.0 (Ethanol); T51.1"
+"(Methanol); T51.2 (2-Propanol); T51.3 (Fusel oil); T51.8 (Other alcohols); T51.9 (Alcohol, unspecified); X45 (Accidental"
+"poisoning by and exposure to alcohol); X65 (Intentional self-poisoning by and exposure to alcohol); Y15 (Poisoning by and"
+"exposure to alcohol, undetermined intent)"
+"Year/Month: 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 30, 2022 4:15:51 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 30, 2022 4:15:51 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

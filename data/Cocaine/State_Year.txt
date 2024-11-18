@@ -1,0 +1,635 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2010"	"2010"	32	4779736	0.7
+	"Alabama"	"01"	"2011"	"2011"	28	4802740	0.6
+	"Alabama"	"01"	"2012"	"2012"	23	4822023	0.5
+	"Alabama"	"01"	"2013"	"2013"	39	4833722	0.8
+	"Alabama"	"01"	"2014"	"2014"	44	4849377	0.9
+	"Alabama"	"01"	"2015"	"2015"	44	4858979	0.9
+	"Alabama"	"01"	"2016"	"2016"	91	4863300	1.9
+	"Alabama"	"01"	"2017"	"2017"	125	4874747	2.6
+	"Alabama"	"01"	"2018"	"2018"	98	4887871	2.0
+	"Alabama"	"01"	"2019"	"2019"	108	4903185	2.2
+	"Alabama"	"01"	"2020 "	"2020"	155	4921532	3.1
+	"Alaska"	"02"	"2010"	"2010"	19	710231	Unreliable
+	"Alaska"	"02"	"2011"	"2011"	13	722718	Unreliable
+	"Alaska"	"02"	"2012"	"2012"	22	731449	3.0
+	"Alaska"	"02"	"2013"	"2013"	13	735132	Unreliable
+	"Alaska"	"02"	"2014"	"2014"	11	736732	Unreliable
+	"Alaska"	"02"	"2015"	"2015"	12	738432	Unreliable
+	"Alaska"	"02"	"2016"	"2016"	17	741894	Unreliable
+	"Alaska"	"02"	"2017"	"2017"	18	739795	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	11	737438	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	14	731545	Unreliable
+	"Alaska"	"02"	"2020 "	"2020"	25	731158	3.4
+	"Arizona"	"04"	"2010"	"2010"	76	6392017	1.2
+	"Arizona"	"04"	"2011"	"2011"	63	6482505	1.0
+	"Arizona"	"04"	"2012"	"2012"	62	6553255	0.9
+	"Arizona"	"04"	"2013"	"2013"	57	6626624	0.9
+	"Arizona"	"04"	"2014"	"2014"	58	6731484	0.9
+	"Arizona"	"04"	"2015"	"2015"	68	6828065	1.0
+	"Arizona"	"04"	"2016"	"2016"	89	6931071	1.3
+	"Arizona"	"04"	"2017"	"2017"	142	7016270	2.0
+	"Arizona"	"04"	"2018"	"2018"	179	7171646	2.5
+	"Arizona"	"04"	"2019"	"2019"	182	7278717	2.5
+	"Arizona"	"04"	"2020 "	"2020"	210	7421401	2.8
+	"Arkansas"	"05"	"2010"	"2010"	21	2915918	0.7
+	"Arkansas"	"05"	"2011"	"2011"	16	2937979	Unreliable
+	"Arkansas"	"05"	"2012"	"2012"	17	2949131	Unreliable
+	"Arkansas"	"05"	"2013"	"2013"	15	2959373	Unreliable
+	"Arkansas"	"05"	"2014"	"2014"	10	2966369	Unreliable
+	"Arkansas"	"05"	"2015"	"2015"	18	2978204	Unreliable
+	"Arkansas"	"05"	"2016"	"2016"	12	2988248	Unreliable
+	"Arkansas"	"05"	"2017"	"2017"	27	3004279	0.9
+	"Arkansas"	"05"	"2018"	"2018"	28	3013825	0.9
+	"Arkansas"	"05"	"2019"	"2019"	31	3017804	1.0
+	"Arkansas"	"05"	"2020 "	"2020"	39	3030522	1.3
+	"California"	"06"	"2010"	"2010"	306	37253956	0.8
+	"California"	"06"	"2011"	"2011"	311	37691912	0.8
+	"California"	"06"	"2012"	"2012"	266	38041430	0.7
+	"California"	"06"	"2013"	"2013"	302	38332521	0.8
+	"California"	"06"	"2014"	"2014"	340	38802500	0.9
+	"California"	"06"	"2015"	"2015"	363	39144818	0.9
+	"California"	"06"	"2016"	"2016"	456	39250017	1.2
+	"California"	"06"	"2017"	"2017"	511	39536653	1.3
+	"California"	"06"	"2018"	"2018"	679	39557045	1.7
+	"California"	"06"	"2019"	"2019"	953	39512223	2.4
+	"California"	"06"	"2020 "	"2020"	1284	39368078	3.3
+	"Colorado"	"08"	"2010"	"2010"	77	5029196	1.5
+	"Colorado"	"08"	"2011"	"2011"	98	5116796	1.9
+	"Colorado"	"08"	"2012"	"2012"	70	5187582	1.3
+	"Colorado"	"08"	"2013"	"2013"	64	5268367	1.2
+	"Colorado"	"08"	"2014"	"2014"	85	5355866	1.6
+	"Colorado"	"08"	"2015"	"2015"	72	5456574	1.3
+	"Colorado"	"08"	"2016"	"2016"	119	5540545	2.1
+	"Colorado"	"08"	"2017"	"2017"	109	5607154	1.9
+	"Colorado"	"08"	"2018"	"2018"	149	5695564	2.6
+	"Colorado"	"08"	"2019"	"2019"	155	5758736	2.7
+	"Colorado"	"08"	"2020 "	"2020"	244	5807719	4.2
+	"Connecticut"	"09"	"2010"	"2010"	55	3574097	1.5
+	"Connecticut"	"09"	"2011"	"2011"	80	3580709	2.2
+	"Connecticut"	"09"	"2012"	"2012"	74	3590347	2.1
+	"Connecticut"	"09"	"2013"	"2013"	147	3596080	4.1
+	"Connecticut"	"09"	"2014"	"2014"	124	3596677	3.4
+	"Connecticut"	"09"	"2015"	"2015"	171	3590886	4.8
+	"Connecticut"	"09"	"2016"	"2016"	245	3576452	6.9
+	"Connecticut"	"09"	"2017"	"2017"	295	3588184	8.2
+	"Connecticut"	"09"	"2018"	"2018"	314	3572665	8.8
+	"Connecticut"	"09"	"2019"	"2019"	381	3565287	10.7
+	"Connecticut"	"09"	"2020 "	"2020"	424	3557006	11.9
+	"Delaware"	"10"	"2010"	"2010"	27	897934	3.0
+	"Delaware"	"10"	"2011"	"2011"	15	907135	Unreliable
+	"Delaware"	"10"	"2012"	"2012"	26	917092	2.8
+	"Delaware"	"10"	"2013"	"2013"	20	925749	2.2
+	"Delaware"	"10"	"2014"	"2014"	21	935614	2.2
+	"Delaware"	"10"	"2015"	"2015"	26	945934	2.7
+	"Delaware"	"10"	"2016"	"2016"	58	952065	6.1
+	"Delaware"	"10"	"2017"	"2017"	112	961939	11.6
+	"Delaware"	"10"	"2018"	"2018"	142	967171	14.7
+	"Delaware"	"10"	"2019"	"2019"	170	973764	17.5
+	"Delaware"	"10"	"2020 "	"2020"	150	986809	15.2
+	"District of Columbia"	"11"	"2010"	"2010"	41	601723	6.8
+	"District of Columbia"	"11"	"2011"	"2011"	34	617996	5.5
+	"District of Columbia"	"11"	"2012"	"2012"	31	632323	4.9
+	"District of Columbia"	"11"	"2013"	"2013"	32	646449	5.0
+	"District of Columbia"	"11"	"2014"	"2014"	36	658893	5.5
+	"District of Columbia"	"11"	"2015"	"2015"	34	672228	5.1
+	"District of Columbia"	"11"	"2016"	"2016"	91	681170	13.4
+	"District of Columbia"	"11"	"2017"	"2017"	127	693972	18.3
+	"District of Columbia"	"11"	"2018"	"2018"	106	702455	15.1
+	"District of Columbia"	"11"	"2019"	"2019"	130	705749	18.4
+	"District of Columbia"	"11"	"2020 "	"2020"	144	712816	20.2
+	"Florida"	"12"	"2010"	"2010"	379	18801310	2.0
+	"Florida"	"12"	"2011"	"2011"	439	19057542	2.3
+	"Florida"	"12"	"2012"	"2012"	378	19317568	2.0
+	"Florida"	"12"	"2013"	"2013"	405	19552860	2.1
+	"Florida"	"12"	"2014"	"2014"	458	19893297	2.3
+	"Florida"	"12"	"2015"	"2015"	605	20271272	3.0
+	"Florida"	"12"	"2016"	"2016"	1105	20612439	5.4
+	"Florida"	"12"	"2017"	"2017"	1407	20984400	6.7
+	"Florida"	"12"	"2018"	"2018"	1311	21299325	6.2
+	"Florida"	"12"	"2019"	"2019"	1496	21477737	7.0
+	"Florida"	"12"	"2020 "	"2020"	1978	21733312	9.1
+	"Georgia"	"13"	"2010"	"2010"	121	9687653	1.2
+	"Georgia"	"13"	"2011"	"2011"	111	9815210	1.1
+	"Georgia"	"13"	"2012"	"2012"	116	9919945	1.2
+	"Georgia"	"13"	"2013"	"2013"	127	9992167	1.3
+	"Georgia"	"13"	"2014"	"2014"	156	10097343	1.5
+	"Georgia"	"13"	"2015"	"2015"	171	10214860	1.7
+	"Georgia"	"13"	"2016"	"2016"	221	10310371	2.1
+	"Georgia"	"13"	"2017"	"2017"	279	10429379	2.7
+	"Georgia"	"13"	"2018"	"2018"	313	10519475	3.0
+	"Georgia"	"13"	"2019"	"2019"	324	10617423	3.1
+	"Georgia"	"13"	"2020 "	"2020"	359	10710017	3.4
+	"Hawaii"	"15"	"2010"	"2010"	11	1360301	Unreliable
+	"Hawaii"	"15"	"2011"	"2011"	Suppressed	1374810	Suppressed
+	"Hawaii"	"15"	"2012"	"2012"	Suppressed	1392313	Suppressed
+	"Hawaii"	"15"	"2013"	"2013"	10	1404054	Unreliable
+	"Hawaii"	"15"	"2014"	"2014"	Suppressed	1419561	Suppressed
+	"Hawaii"	"15"	"2015"	"2015"	Suppressed	1431603	Suppressed
+	"Hawaii"	"15"	"2016"	"2016"	Suppressed	1428557	Suppressed
+	"Hawaii"	"15"	"2017"	"2017"	11	1427538	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	14	1420491	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	14	1415872	Unreliable
+	"Hawaii"	"15"	"2020 "	"2020"	18	1407006	Unreliable
+	"Idaho"	"16"	"2010"	"2010"	Suppressed	1567582	Suppressed
+	"Idaho"	"16"	"2011"	"2011"	Suppressed	1584985	Suppressed
+	"Idaho"	"16"	"2012"	"2012"	Suppressed	1595728	Suppressed
+	"Idaho"	"16"	"2013"	"2013"	Suppressed	1612136	Suppressed
+	"Idaho"	"16"	"2014"	"2014"	Suppressed	1634464	Suppressed
+	"Idaho"	"16"	"2015"	"2015"	Suppressed	1654930	Suppressed
+	"Idaho"	"16"	"2016"	"2016"	Suppressed	1683140	Suppressed
+	"Idaho"	"16"	"2017"	"2017"	Suppressed	1716943	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	Suppressed	1754208	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	Suppressed	1787065	Suppressed
+	"Idaho"	"16"	"2020 "	"2020"	Suppressed	1826913	Suppressed
+	"Illinois"	"17"	"2010"	"2010"	366	12830632	2.9
+	"Illinois"	"17"	"2011"	"2011"	370	12869257	2.9
+	"Illinois"	"17"	"2012"	"2012"	415	12875255	3.2
+	"Illinois"	"17"	"2013"	"2013"	339	12882135	2.6
+	"Illinois"	"17"	"2014"	"2014"	323	12880580	2.5
+	"Illinois"	"17"	"2015"	"2015"	359	12859995	2.8
+	"Illinois"	"17"	"2016"	"2016"	548	12801539	4.3
+	"Illinois"	"17"	"2017"	"2017"	791	12802023	6.2
+	"Illinois"	"17"	"2018"	"2018"	821	12741080	6.4
+	"Illinois"	"17"	"2019"	"2019"	921	12671821	7.3
+	"Illinois"	"17"	"2020 "	"2020"	1168	12587530	9.3
+	"Indiana"	"18"	"2010"	"2010"	49	6483802	0.8
+	"Indiana"	"18"	"2011"	"2011"	40	6516922	0.6
+	"Indiana"	"18"	"2012"	"2012"	44	6537334	0.7
+	"Indiana"	"18"	"2013"	"2013"	54	6570902	0.8
+	"Indiana"	"18"	"2014"	"2014"	60	6596855	0.9
+	"Indiana"	"18"	"2015"	"2015"	72	6619680	1.1
+	"Indiana"	"18"	"2016"	"2016"	121	6633053	1.8
+	"Indiana"	"18"	"2017"	"2017"	265	6666818	4.0
+	"Indiana"	"18"	"2018"	"2018"	269	6691878	4.0
+	"Indiana"	"18"	"2019"	"2019"	295	6732219	4.4
+	"Indiana"	"18"	"2020 "	"2020"	335	6754953	5.0
+	"Iowa"	"19"	"2010"	"2010"	31	3046355	1.0
+	"Iowa"	"19"	"2011"	"2011"	Suppressed	3062309	Suppressed
+	"Iowa"	"19"	"2012"	"2012"	14	3074186	Unreliable
+	"Iowa"	"19"	"2013"	"2013"	17	3090416	Unreliable
+	"Iowa"	"19"	"2014"	"2014"	19	3107126	Unreliable
+	"Iowa"	"19"	"2015"	"2015"	19	3123899	Unreliable
+	"Iowa"	"19"	"2016"	"2016"	20	3134693	0.6
+	"Iowa"	"19"	"2017"	"2017"	19	3145711	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	14	3156145	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	23	3155070	0.7
+	"Iowa"	"19"	"2020 "	"2020"	33	3163561	1.0
+	"Kansas"	"20"	"2010"	"2010"	18	2853118	Unreliable
+	"Kansas"	"20"	"2011"	"2011"	27	2871238	0.9
+	"Kansas"	"20"	"2012"	"2012"	13	2885905	Unreliable
+	"Kansas"	"20"	"2013"	"2013"	17	2893957	Unreliable
+	"Kansas"	"20"	"2014"	"2014"	19	2904021	Unreliable
+	"Kansas"	"20"	"2015"	"2015"	19	2911641	Unreliable
+	"Kansas"	"20"	"2016"	"2016"	15	2907289	Unreliable
+	"Kansas"	"20"	"2017"	"2017"	30	2913123	1.0
+	"Kansas"	"20"	"2018"	"2018"	33	2911505	1.1
+	"Kansas"	"20"	"2019"	"2019"	39	2913314	1.3
+	"Kansas"	"20"	"2020 "	"2020"	48	2913805	1.6
+	"Kentucky"	"21"	"2010"	"2010"	41	4339367	0.9
+	"Kentucky"	"21"	"2011"	"2011"	39	4369356	0.9
+	"Kentucky"	"21"	"2012"	"2012"	59	4380415	1.3
+	"Kentucky"	"21"	"2013"	"2013"	80	4395295	1.8
+	"Kentucky"	"21"	"2014"	"2014"	75	4413457	1.7
+	"Kentucky"	"21"	"2015"	"2015"	103	4425092	2.3
+	"Kentucky"	"21"	"2016"	"2016"	151	4436974	3.4
+	"Kentucky"	"21"	"2017"	"2017"	191	4454189	4.3
+	"Kentucky"	"21"	"2018"	"2018"	136	4468402	3.0
+	"Kentucky"	"21"	"2019"	"2019"	127	4467673	2.8
+	"Kentucky"	"21"	"2020 "	"2020"	193	4477251	4.3
+	"Louisiana"	"22"	"2010"	"2010"	61	4533372	1.3
+	"Louisiana"	"22"	"2011"	"2011"	77	4574836	1.7
+	"Louisiana"	"22"	"2012"	"2012"	49	4601893	1.1
+	"Louisiana"	"22"	"2013"	"2013"	72	4625470	1.6
+	"Louisiana"	"22"	"2014"	"2014"	82	4649676	1.8
+	"Louisiana"	"22"	"2015"	"2015"	104	4670724	2.2
+	"Louisiana"	"22"	"2016"	"2016"	143	4681666	3.1
+	"Louisiana"	"22"	"2017"	"2017"	164	4684333	3.5
+	"Louisiana"	"22"	"2018"	"2018"	132	4659978	2.8
+	"Louisiana"	"22"	"2019"	"2019"	132	4648794	2.8
+	"Louisiana"	"22"	"2020 "	"2020"	251	4645318	5.4
+	"Maine"	"23"	"2010"	"2010"	Suppressed	1328361	Suppressed
+	"Maine"	"23"	"2011"	"2011"	14	1328188	Unreliable
+	"Maine"	"23"	"2012"	"2012"	Suppressed	1329192	Suppressed
+	"Maine"	"23"	"2013"	"2013"	Suppressed	1328302	Suppressed
+	"Maine"	"23"	"2014"	"2014"	23	1330089	1.7
+	"Maine"	"23"	"2015"	"2015"	35	1329328	2.6
+	"Maine"	"23"	"2016"	"2016"	62	1331479	4.7
+	"Maine"	"23"	"2017"	"2017"	96	1335907	7.2
+	"Maine"	"23"	"2018"	"2018"	96	1338404	7.2
+	"Maine"	"23"	"2019"	"2019"	108	1344212	8.0
+	"Maine"	"23"	"2020 "	"2020"	125	1350141	9.3
+	"Maryland"	"24"	"2010"	"2010"	87	5773552	1.5
+	"Maryland"	"24"	"2011"	"2011"	95	5828289	1.6
+	"Maryland"	"24"	"2012"	"2012"	94	5884563	1.6
+	"Maryland"	"24"	"2013"	"2013"	102	5928814	1.7
+	"Maryland"	"24"	"2014"	"2014"	125	5976407	2.1
+	"Maryland"	"24"	"2015"	"2015"	144	6006401	2.4
+	"Maryland"	"24"	"2016"	"2016"	321	6016447	5.3
+	"Maryland"	"24"	"2017"	"2017"	541	6052177	8.9
+	"Maryland"	"24"	"2018"	"2018"	729	6042718	12.1
+	"Maryland"	"24"	"2019"	"2019"	730	6045680	12.1
+	"Maryland"	"24"	"2020 "	"2020"	773	6055802	12.8
+	"Massachusetts"	"25"	"2010"	"2010"	182	6547629	2.8
+	"Massachusetts"	"25"	"2011"	"2011"	211	6587536	3.2
+	"Massachusetts"	"25"	"2012"	"2012"	190	6646144	2.9
+	"Massachusetts"	"25"	"2013"	"2013"	243	6692824	3.6
+	"Massachusetts"	"25"	"2014"	"2014"	295	6745408	4.4
+	"Massachusetts"	"25"	"2015"	"2015"	411	6794422	6.0
+	"Massachusetts"	"25"	"2016"	"2016"	582	6811779	8.5
+	"Massachusetts"	"25"	"2017"	"2017"	700	6859819	10.2
+	"Massachusetts"	"25"	"2018"	"2018"	730	6902149	10.6
+	"Massachusetts"	"25"	"2019"	"2019"	798	6892503	11.6
+	"Massachusetts"	"25"	"2020 "	"2020"	939	6893574	13.6
+	"Michigan"	"26"	"2010"	"2010"	154	9883640	1.6
+	"Michigan"	"26"	"2011"	"2011"	170	9876187	1.7
+	"Michigan"	"26"	"2012"	"2012"	138	9883360	1.4
+	"Michigan"	"26"	"2013"	"2013"	193	9895622	2.0
+	"Michigan"	"26"	"2014"	"2014"	235	9909877	2.4
+	"Michigan"	"26"	"2015"	"2015"	322	9922576	3.2
+	"Michigan"	"26"	"2016"	"2016"	516	9928300	5.2
+	"Michigan"	"26"	"2017"	"2017"	661	9962311	6.6
+	"Michigan"	"26"	"2018"	"2018"	788	9995915	7.9
+	"Michigan"	"26"	"2019"	"2019"	699	9986857	7.0
+	"Michigan"	"26"	"2020 "	"2020"	696	9966555	7.0
+	"Minnesota"	"27"	"2010"	"2010"	29	5303925	0.5
+	"Minnesota"	"27"	"2011"	"2011"	48	5344861	0.9
+	"Minnesota"	"27"	"2012"	"2012"	36	5379139	0.7
+	"Minnesota"	"27"	"2013"	"2013"	45	5420380	0.8
+	"Minnesota"	"27"	"2014"	"2014"	36	5457173	0.7
+	"Minnesota"	"27"	"2015"	"2015"	45	5489594	0.8
+	"Minnesota"	"27"	"2016"	"2016"	49	5519952	0.9
+	"Minnesota"	"27"	"2017"	"2017"	69	5576606	1.2
+	"Minnesota"	"27"	"2018"	"2018"	59	5611179	1.1
+	"Minnesota"	"27"	"2019"	"2019"	72	5639632	1.3
+	"Minnesota"	"27"	"2020 "	"2020"	92	5657342	1.6
+	"Mississippi"	"28"	"2010"	"2010"	20	2967297	0.7
+	"Mississippi"	"28"	"2011"	"2011"	18	2978512	Unreliable
+	"Mississippi"	"28"	"2012"	"2012"	13	2984926	Unreliable
+	"Mississippi"	"28"	"2013"	"2013"	15	2991207	Unreliable
+	"Mississippi"	"28"	"2014"	"2014"	18	2994079	Unreliable
+	"Mississippi"	"28"	"2015"	"2015"	28	2992333	0.9
+	"Mississippi"	"28"	"2016"	"2016"	35	2988726	1.2
+	"Mississippi"	"28"	"2017"	"2017"	42	2984100	1.4
+	"Mississippi"	"28"	"2018"	"2018"	41	2986530	1.4
+	"Mississippi"	"28"	"2019"	"2019"	49	2976149	1.6
+	"Mississippi"	"28"	"2020 "	"2020"	70	2966786	2.4
+	"Missouri"	"29"	"2010"	"2010"	83	5988927	1.4
+	"Missouri"	"29"	"2011"	"2011"	71	6010688	1.2
+	"Missouri"	"29"	"2012"	"2012"	57	6021988	0.9
+	"Missouri"	"29"	"2013"	"2013"	68	6044171	1.1
+	"Missouri"	"29"	"2014"	"2014"	69	6063589	1.1
+	"Missouri"	"29"	"2015"	"2015"	91	6083672	1.5
+	"Missouri"	"29"	"2016"	"2016"	129	6093000	2.1
+	"Missouri"	"29"	"2017"	"2017"	164	6113532	2.7
+	"Missouri"	"29"	"2018"	"2018"	163	6126452	2.7
+	"Missouri"	"29"	"2019"	"2019"	180	6137428	2.9
+	"Missouri"	"29"	"2020 "	"2020"	243	6151548	4.0
+	"Montana"	"30"	"2010"	"2010"	Suppressed	989415	Suppressed
+	"Montana"	"30"	"2011"	"2011"	Suppressed	998199	Suppressed
+	"Montana"	"30"	"2012"	"2012"	Suppressed	1005141	Suppressed
+	"Montana"	"30"	"2013"	"2013"	Suppressed	1015165	Suppressed
+	"Montana"	"30"	"2014"	"2014"	Suppressed	1023579	Suppressed
+	"Montana"	"30"	"2015"	"2015"	Suppressed	1032949	Suppressed
+	"Montana"	"30"	"2016"	"2016"	Suppressed	1042520	Suppressed
+	"Montana"	"30"	"2017"	"2017"	Suppressed	1050493	Suppressed
+	"Montana"	"30"	"2018"	"2018"	Suppressed	1062305	Suppressed
+	"Montana"	"30"	"2019"	"2019"	Suppressed	1068778	Suppressed
+	"Montana"	"30"	"2020 "	"2020"	Suppressed	1080577	Suppressed
+	"Nebraska"	"31"	"2010"	"2010"	Suppressed	1826341	Suppressed
+	"Nebraska"	"31"	"2011"	"2011"	10	1842641	Unreliable
+	"Nebraska"	"31"	"2012"	"2012"	Suppressed	1855525	Suppressed
+	"Nebraska"	"31"	"2013"	"2013"	Suppressed	1868516	Suppressed
+	"Nebraska"	"31"	"2014"	"2014"	Suppressed	1881503	Suppressed
+	"Nebraska"	"31"	"2015"	"2015"	Suppressed	1896190	Suppressed
+	"Nebraska"	"31"	"2016"	"2016"	10	1907116	Unreliable
+	"Nebraska"	"31"	"2017"	"2017"	Suppressed	1920076	Suppressed
+	"Nebraska"	"31"	"2018"	"2018"	Suppressed	1929268	Suppressed
+	"Nebraska"	"31"	"2019"	"2019"	Suppressed	1934408	Suppressed
+	"Nebraska"	"31"	"2020 "	"2020"	Suppressed	1937552	Suppressed
+	"Nevada"	"32"	"2010"	"2010"	57	2700551	2.1
+	"Nevada"	"32"	"2011"	"2011"	64	2723322	2.4
+	"Nevada"	"32"	"2012"	"2012"	49	2758931	1.8
+	"Nevada"	"32"	"2013"	"2013"	62	2790136	2.2
+	"Nevada"	"32"	"2014"	"2014"	41	2839099	1.4
+	"Nevada"	"32"	"2015"	"2015"	52	2890845	1.8
+	"Nevada"	"32"	"2016"	"2016"	51	2940058	1.7
+	"Nevada"	"32"	"2017"	"2017"	56	2998039	1.9
+	"Nevada"	"32"	"2018"	"2018"	59	3034392	1.9
+	"Nevada"	"32"	"2019"	"2019"	66	3080156	2.1
+	"Nevada"	"32"	"2020 "	"2020"	92	3138259	2.9
+	"New Hampshire"	"33"	"2010"	"2010"	23	1316470	1.7
+	"New Hampshire"	"33"	"2011"	"2011"	25	1318194	1.9
+	"New Hampshire"	"33"	"2012"	"2012"	20	1320718	1.5
+	"New Hampshire"	"33"	"2013"	"2013"	33	1323459	2.5
+	"New Hampshire"	"33"	"2014"	"2014"	37	1326813	2.8
+	"New Hampshire"	"33"	"2015"	"2015"	50	1330608	3.8
+	"New Hampshire"	"33"	"2016"	"2016"	73	1334795	5.5
+	"New Hampshire"	"33"	"2017"	"2017"	54	1342795	4.0
+	"New Hampshire"	"33"	"2018"	"2018"	70	1356458	5.2
+	"New Hampshire"	"33"	"2019"	"2019"	82	1359711	6.0
+	"New Hampshire"	"33"	"2020 "	"2020"	57	1366275	4.2
+	"New Jersey"	"34"	"2010"	"2010"	156	8791894	1.8
+	"New Jersey"	"34"	"2011"	"2011"	129	8821155	1.5
+	"New Jersey"	"34"	"2012"	"2012"	173	8864590	2.0
+	"New Jersey"	"34"	"2013"	"2013"	213	8899339	2.4
+	"New Jersey"	"34"	"2014"	"2014"	202	8938175	2.3
+	"New Jersey"	"34"	"2015"	"2015"	219	8958013	2.4
+	"New Jersey"	"34"	"2016"	"2016"	419	8944469	4.7
+	"New Jersey"	"34"	"2017"	"2017"	582	9005644	6.5
+	"New Jersey"	"34"	"2018"	"2018"	901	8908520	10.1
+	"New Jersey"	"34"	"2019"	"2019"	903	8882190	10.2
+	"New Jersey"	"34"	"2020 "	"2020"	889	8882371	10.0
+	"New Mexico"	"35"	"2010"	"2010"	53	2059179	2.6
+	"New Mexico"	"35"	"2011"	"2011"	59	2082224	2.8
+	"New Mexico"	"35"	"2012"	"2012"	73	2085538	3.5
+	"New Mexico"	"35"	"2013"	"2013"	65	2085287	3.1
+	"New Mexico"	"35"	"2014"	"2014"	82	2085572	3.9
+	"New Mexico"	"35"	"2015"	"2015"	59	2085109	2.8
+	"New Mexico"	"35"	"2016"	"2016"	66	2081015	3.2
+	"New Mexico"	"35"	"2017"	"2017"	66	2088070	3.2
+	"New Mexico"	"35"	"2018"	"2018"	60	2095428	2.9
+	"New Mexico"	"35"	"2019"	"2019"	88	2096829	4.2
+	"New Mexico"	"35"	"2020 "	"2020"	126	2106319	6.0
+	"New York"	"36"	"2010"	"2010"	443	19378102	2.3
+	"New York"	"36"	"2011"	"2011"	516	19465197	2.7
+	"New York"	"36"	"2012"	"2012"	521	19570261	2.7
+	"New York"	"36"	"2013"	"2013"	575	19651127	2.9
+	"New York"	"36"	"2014"	"2014"	552	19746227	2.8
+	"New York"	"36"	"2015"	"2015"	685	19795791	3.5
+	"New York"	"36"	"2016"	"2016"	1063	19745289	5.4
+	"New York"	"36"	"2017"	"2017"	1383	19849399	7.0
+	"New York"	"36"	"2018"	"2018"	1375	19542209	7.0
+	"New York"	"36"	"2019"	"2019"	1399	19453561	7.2
+	"New York"	"36"	"2020 "	"2020"	1837	19336776	9.5
+	"North Carolina"	"37"	"2010"	"2010"	143	9535483	1.5
+	"North Carolina"	"37"	"2011"	"2011"	187	9656401	1.9
+	"North Carolina"	"37"	"2012"	"2012"	218	9752073	2.2
+	"North Carolina"	"37"	"2013"	"2013"	180	9848060	1.8
+	"North Carolina"	"37"	"2014"	"2014"	238	9943964	2.4
+	"North Carolina"	"37"	"2015"	"2015"	330	10042802	3.3
+	"North Carolina"	"37"	"2016"	"2016"	527	10146788	5.2
+	"North Carolina"	"37"	"2017"	"2017"	747	10273419	7.3
+	"North Carolina"	"37"	"2018"	"2018"	741	10383620	7.1
+	"North Carolina"	"37"	"2019"	"2019"	815	10488084	7.8
+	"North Carolina"	"37"	"2020 "	"2020"	1034	10600823	9.8
+	"North Dakota"	"38"	"2010"	"2010"	Suppressed	672591	Suppressed
+	"North Dakota"	"38"	"2011"	"2011"	Suppressed	683932	Suppressed
+	"North Dakota"	"38"	"2012"	"2012"	Suppressed	699628	Suppressed
+	"North Dakota"	"38"	"2013"	"2013"	Suppressed	723393	Suppressed
+	"North Dakota"	"38"	"2014"	"2014"	Suppressed	739482	Suppressed
+	"North Dakota"	"38"	"2015"	"2015"	Suppressed	756927	Suppressed
+	"North Dakota"	"38"	"2016"	"2016"	Suppressed	757952	Suppressed
+	"North Dakota"	"38"	"2017"	"2017"	Suppressed	755393	Suppressed
+	"North Dakota"	"38"	"2018"	"2018"	Suppressed	760077	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	Suppressed	762062	Suppressed
+	"North Dakota"	"38"	"2020 "	"2020"	Suppressed	765309	Suppressed
+	"Ohio"	"39"	"2010"	"2010"	278	11536504	2.4
+	"Ohio"	"39"	"2011"	"2011"	352	11544951	3.0
+	"Ohio"	"39"	"2012"	"2012"	389	11544225	3.4
+	"Ohio"	"39"	"2013"	"2013"	453	11570808	3.9
+	"Ohio"	"39"	"2014"	"2014"	569	11594163	4.9
+	"Ohio"	"39"	"2015"	"2015"	749	11613423	6.4
+	"Ohio"	"39"	"2016"	"2016"	1192	11614373	10.3
+	"Ohio"	"39"	"2017"	"2017"	1626	11658609	13.9
+	"Ohio"	"39"	"2018"	"2018"	1175	11689442	10.1
+	"Ohio"	"39"	"2019"	"2019"	1297	11689100	11.1
+	"Ohio"	"39"	"2020 "	"2020"	1311	11693217	11.2
+	"Oklahoma"	"40"	"2010"	"2010"	44	3751351	1.2
+	"Oklahoma"	"40"	"2011"	"2011"	45	3791508	1.2
+	"Oklahoma"	"40"	"2012"	"2012"	44	3814820	1.2
+	"Oklahoma"	"40"	"2013"	"2013"	30	3850568	0.8
+	"Oklahoma"	"40"	"2014"	"2014"	25	3878051	0.6
+	"Oklahoma"	"40"	"2015"	"2015"	37	3911338	0.9
+	"Oklahoma"	"40"	"2016"	"2016"	37	3923561	0.9
+	"Oklahoma"	"40"	"2017"	"2017"	47	3930864	1.2
+	"Oklahoma"	"40"	"2018"	"2018"	48	3943079	1.2
+	"Oklahoma"	"40"	"2019"	"2019"	45	3956971	1.1
+	"Oklahoma"	"40"	"2020 "	"2020"	64	3980783	1.6
+	"Oregon"	"41"	"2010"	"2010"	25	3831074	0.7
+	"Oregon"	"41"	"2011"	"2011"	33	3871859	0.9
+	"Oregon"	"41"	"2012"	"2012"	19	3899353	Unreliable
+	"Oregon"	"41"	"2013"	"2013"	15	3930065	Unreliable
+	"Oregon"	"41"	"2014"	"2014"	25	3970239	0.6
+	"Oregon"	"41"	"2015"	"2015"	25	4028977	0.6
+	"Oregon"	"41"	"2016"	"2016"	27	4093465	0.7
+	"Oregon"	"41"	"2017"	"2017"	40	4142776	1.0
+	"Oregon"	"41"	"2018"	"2018"	49	4190713	1.2
+	"Oregon"	"41"	"2019"	"2019"	70	4217737	1.7
+	"Oregon"	"41"	"2020 "	"2020"	65	4241507	1.5
+	"Pennsylvania"	"42"	"2010"	"2010"	220	12702379	1.7
+	"Pennsylvania"	"42"	"2011"	"2011"	233	12742886	1.8
+	"Pennsylvania"	"42"	"2012"	"2012"	206	12763536	1.6
+	"Pennsylvania"	"42"	"2013"	"2013"	196	12773801	1.5
+	"Pennsylvania"	"42"	"2014"	"2014"	215	12787209	1.7
+	"Pennsylvania"	"42"	"2015"	"2015"	280	12802503	2.2
+	"Pennsylvania"	"42"	"2016"	"2016"	534	12784227	4.2
+	"Pennsylvania"	"42"	"2017"	"2017"	756	12805537	5.9
+	"Pennsylvania"	"42"	"2018"	"2018"	1068	12807060	8.3
+	"Pennsylvania"	"42"	"2019"	"2019"	1215	12801989	9.5
+	"Pennsylvania"	"42"	"2020 "	"2020"	1338	12783254	10.5
+	"Rhode Island"	"44"	"2010"	"2010"	48	1052567	4.6
+	"Rhode Island"	"44"	"2011"	"2011"	48	1051302	4.6
+	"Rhode Island"	"44"	"2012"	"2012"	53	1050292	5.0
+	"Rhode Island"	"44"	"2013"	"2013"	77	1051511	7.3
+	"Rhode Island"	"44"	"2014"	"2014"	70	1055173	6.6
+	"Rhode Island"	"44"	"2015"	"2015"	89	1056298	8.4
+	"Rhode Island"	"44"	"2016"	"2016"	116	1056426	11.0
+	"Rhode Island"	"44"	"2017"	"2017"	116	1059639	10.9
+	"Rhode Island"	"44"	"2018"	"2018"	136	1057315	12.9
+	"Rhode Island"	"44"	"2019"	"2019"	146	1059361	13.8
+	"Rhode Island"	"44"	"2020 "	"2020"	194	1057125	18.4
+	"South Carolina"	"45"	"2010"	"2010"	73	4625364	1.6
+	"South Carolina"	"45"	"2011"	"2011"	68	4679230	1.5
+	"South Carolina"	"45"	"2012"	"2012"	53	4723723	1.1
+	"South Carolina"	"45"	"2013"	"2013"	54	4774839	1.1
+	"South Carolina"	"45"	"2014"	"2014"	98	4832482	2.0
+	"South Carolina"	"45"	"2015"	"2015"	124	4896146	2.5
+	"South Carolina"	"45"	"2016"	"2016"	152	4961119	3.1
+	"South Carolina"	"45"	"2017"	"2017"	248	5024369	4.9
+	"South Carolina"	"45"	"2018"	"2018"	275	5084127	5.4
+	"South Carolina"	"45"	"2019"	"2019"	238	5148714	4.6
+	"South Carolina"	"45"	"2020 "	"2020"	367	5218040	7.0
+	"South Dakota"	"46"	"2010"	"2010"	Suppressed	814180	Suppressed
+	"South Dakota"	"46"	"2011"	"2011"	Suppressed	824082	Suppressed
+	"South Dakota"	"46"	"2012"	"2012"	Suppressed	833354	Suppressed
+	"South Dakota"	"46"	"2013"	"2013"	Suppressed	844877	Suppressed
+	"South Dakota"	"46"	"2014"	"2014"	Suppressed	853175	Suppressed
+	"South Dakota"	"46"	"2015"	"2015"	Suppressed	858469	Suppressed
+	"South Dakota"	"46"	"2016"	"2016"	Suppressed	865454	Suppressed
+	"South Dakota"	"46"	"2017"	"2017"	Suppressed	869666	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	Suppressed	882235	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	Suppressed	884659	Suppressed
+	"South Dakota"	"46"	"2020 "	"2020"	Suppressed	892717	Suppressed
+	"Tennessee"	"47"	"2010"	"2010"	140	6346105	2.2
+	"Tennessee"	"47"	"2011"	"2011"	143	6403353	2.2
+	"Tennessee"	"47"	"2012"	"2012"	110	6456243	1.7
+	"Tennessee"	"47"	"2013"	"2013"	143	6495978	2.2
+	"Tennessee"	"47"	"2014"	"2014"	151	6549352	2.3
+	"Tennessee"	"47"	"2015"	"2015"	211	6600299	3.2
+	"Tennessee"	"47"	"2016"	"2016"	275	6651194	4.1
+	"Tennessee"	"47"	"2017"	"2017"	334	6715984	5.0
+	"Tennessee"	"47"	"2018"	"2018"	266	6770010	3.9
+	"Tennessee"	"47"	"2019"	"2019"	358	6829174	5.2
+	"Tennessee"	"47"	"2020 "	"2020"	463	6886834	6.7
+	"Texas"	"48"	"2010"	"2010"	456	25145561	1.8
+	"Texas"	"48"	"2011"	"2011"	543	25674681	2.1
+	"Texas"	"48"	"2012"	"2012"	497	26059203	1.9
+	"Texas"	"48"	"2013"	"2013"	472	26448193	1.8
+	"Texas"	"48"	"2014"	"2014"	495	26956958	1.8
+	"Texas"	"48"	"2015"	"2015"	585	27469114	2.1
+	"Texas"	"48"	"2016"	"2016"	706	27862596	2.5
+	"Texas"	"48"	"2017"	"2017"	832	28304596	2.9
+	"Texas"	"48"	"2018"	"2018"	877	28701845	3.1
+	"Texas"	"48"	"2019"	"2019"	891	28995881	3.1
+	"Texas"	"48"	"2020 "	"2020"	1177	29360759	4.0
+	"Utah"	"49"	"2010"	"2010"	39	2763885	1.4
+	"Utah"	"49"	"2011"	"2011"	43	2817222	1.5
+	"Utah"	"49"	"2012"	"2012"	49	2855287	1.7
+	"Utah"	"49"	"2013"	"2013"	31	2900872	1.1
+	"Utah"	"49"	"2014"	"2014"	39	2942902	1.3
+	"Utah"	"49"	"2015"	"2015"	44	2995919	1.5
+	"Utah"	"49"	"2016"	"2016"	49	3051217	1.6
+	"Utah"	"49"	"2017"	"2017"	47	3101833	1.5
+	"Utah"	"49"	"2018"	"2018"	53	3161105	1.7
+	"Utah"	"49"	"2019"	"2019"	44	3205958	1.4
+	"Utah"	"49"	"2020 "	"2020"	52	3249879	1.6
+	"Vermont"	"50"	"2010"	"2010"	Suppressed	625741	Suppressed
+	"Vermont"	"50"	"2011"	"2011"	13	626431	Unreliable
+	"Vermont"	"50"	"2012"	"2012"	Suppressed	626011	Suppressed
+	"Vermont"	"50"	"2013"	"2013"	11	626630	Unreliable
+	"Vermont"	"50"	"2014"	"2014"	14	626562	Unreliable
+	"Vermont"	"50"	"2015"	"2015"	15	626042	Unreliable
+	"Vermont"	"50"	"2016"	"2016"	21	624594	3.4
+	"Vermont"	"50"	"2017"	"2017"	38	623657	6.1
+	"Vermont"	"50"	"2018"	"2018"	52	626299	8.3
+	"Vermont"	"50"	"2019"	"2019"	55	623989	8.8
+	"Vermont"	"50"	"2020 "	"2020"	73	623347	11.7
+	"Virginia"	"51"	"2010"	"2010"	73	8001024	0.9
+	"Virginia"	"51"	"2011"	"2011"	103	8096604	1.3
+	"Virginia"	"51"	"2012"	"2012"	72	8185867	0.9
+	"Virginia"	"51"	"2013"	"2013"	113	8260405	1.4
+	"Virginia"	"51"	"2014"	"2014"	133	8326289	1.6
+	"Virginia"	"51"	"2015"	"2015"	171	8382993	2.0
+	"Virginia"	"51"	"2016"	"2016"	257	8411808	3.1
+	"Virginia"	"51"	"2017"	"2017"	362	8470020	4.3
+	"Virginia"	"51"	"2018"	"2018"	425	8517685	5.0
+	"Virginia"	"51"	"2019"	"2019"	419	8535519	4.9
+	"Virginia"	"51"	"2020 "	"2020"	570	8590563	6.6
+	"Washington"	"53"	"2010"	"2010"	77	6724540	1.1
+	"Washington"	"53"	"2011"	"2011"	99	6830038	1.4
+	"Washington"	"53"	"2012"	"2012"	67	6897012	1.0
+	"Washington"	"53"	"2013"	"2013"	93	6971406	1.3
+	"Washington"	"53"	"2014"	"2014"	93	7061530	1.3
+	"Washington"	"53"	"2015"	"2015"	95	7170351	1.3
+	"Washington"	"53"	"2016"	"2016"	93	7288000	1.3
+	"Washington"	"53"	"2017"	"2017"	119	7405743	1.6
+	"Washington"	"53"	"2018"	"2018"	136	7535591	1.8
+	"Washington"	"53"	"2019"	"2019"	137	7614893	1.8
+	"Washington"	"53"	"2020 "	"2020"	197	7693612	2.6
+	"West Virginia"	"54"	"2010"	"2010"	68	1852994	3.7
+	"West Virginia"	"54"	"2011"	"2011"	87	1855364	4.7
+	"West Virginia"	"54"	"2012"	"2012"	68	1855413	3.7
+	"West Virginia"	"54"	"2013"	"2013"	86	1854304	4.6
+	"West Virginia"	"54"	"2014"	"2014"	62	1850326	3.4
+	"West Virginia"	"54"	"2015"	"2015"	99	1844128	5.4
+	"West Virginia"	"54"	"2016"	"2016"	158	1831102	8.6
+	"West Virginia"	"54"	"2017"	"2017"	198	1815857	10.9
+	"West Virginia"	"54"	"2018"	"2018"	150	1805832	8.3
+	"West Virginia"	"54"	"2019"	"2019"	143	1792147	8.0
+	"West Virginia"	"54"	"2020 "	"2020"	133	1784787	7.5
+	"Wisconsin"	"55"	"2010"	"2010"	92	5686986	1.6
+	"Wisconsin"	"55"	"2011"	"2011"	91	5711767	1.6
+	"Wisconsin"	"55"	"2012"	"2012"	70	5726398	1.2
+	"Wisconsin"	"55"	"2013"	"2013"	92	5742713	1.6
+	"Wisconsin"	"55"	"2014"	"2014"	106	5757564	1.8
+	"Wisconsin"	"55"	"2015"	"2015"	118	5771337	2.0
+	"Wisconsin"	"55"	"2016"	"2016"	151	5778708	2.6
+	"Wisconsin"	"55"	"2017"	"2017"	271	5795483	4.7
+	"Wisconsin"	"55"	"2018"	"2018"	297	5813568	5.1
+	"Wisconsin"	"55"	"2019"	"2019"	310	5822434	5.3
+	"Wisconsin"	"55"	"2020 "	"2020"	420	5832655	7.2
+	"Wyoming"	"56"	"2010"	"2010"	Suppressed	563626	Suppressed
+	"Wyoming"	"56"	"2011"	"2011"	Suppressed	568158	Suppressed
+	"Wyoming"	"56"	"2012"	"2012"	Suppressed	576412	Suppressed
+	"Wyoming"	"56"	"2013"	"2013"	Suppressed	582658	Suppressed
+	"Wyoming"	"56"	"2014"	"2014"	Suppressed	584153	Suppressed
+	"Wyoming"	"56"	"2015"	"2015"	Suppressed	586107	Suppressed
+	"Wyoming"	"56"	"2016"	"2016"	Suppressed	585501	Suppressed
+	"Wyoming"	"56"	"2017"	"2017"	Suppressed	579315	Suppressed
+	"Wyoming"	"56"	"2018"	"2018"	Suppressed	577737	Suppressed
+	"Wyoming"	"56"	"2019"	"2019"	Suppressed	578759	Suppressed
+	"Wyoming"	"56"	"2020 "	"2020"	Suppressed	582328	Suppressed
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: T40.5 (Cocaine)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 29, 2022 5:45:44 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 29, 2022 5:45:44 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

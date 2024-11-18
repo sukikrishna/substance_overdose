@@ -1,0 +1,87 @@
+"Notes"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Jan., 2019"	"2019/01"	840	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	747	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	868	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	847	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	889	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	915	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	952	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	960	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	932	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	922	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	930	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	1010	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	941	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	957	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	1058	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	1113	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	1524	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	1369	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	1387	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	1294	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	1137	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	1187	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	1123	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	1109	Not Applicable	Not Applicable
+	"Jan., 2021 (provisional)"	"2021/01"	1281	Not Applicable	Not Applicable
+	"Feb., 2021 (provisional)"	"2021/02"	1120	Not Applicable	Not Applicable
+	"Mar., 2021 (provisional)"	"2021/03"	1356	Not Applicable	Not Applicable
+	"Apr., 2021 (provisional)"	"2021/04"	1357	Not Applicable	Not Applicable
+	"May, 2021 (provisional)"	"2021/05"	1401	Not Applicable	Not Applicable
+	"Jun., 2021 (provisional)"	"2021/06"	1364	Not Applicable	Not Applicable
+	"Jul., 2021 (provisional)"	"2021/07"	1385	Not Applicable	Not Applicable
+	"Aug., 2021 (provisional)"	"2021/08"	1420	Not Applicable	Not Applicable
+	"Sep., 2021 (provisional)"	"2021/09"	1375	Not Applicable	Not Applicable
+	"Oct., 2021 (provisional)"	"2021/10"	1287	Not Applicable	Not Applicable
+	"Nov., 2021 (provisional)"	"2021/11"	1171	Not Applicable	Not Applicable
+	"Dec., 2021 (provisional)"	"2021/12"	1200	Not Applicable	Not Applicable
+"Total"			40728	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"MCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: F10.0 (Mental and behavioural disorders due to use of alcohol, acute intoxication); T51.0 (Ethanol); T51.1"
+"(Methanol); T51.2 (2-Propanol); T51.3 (Fusel oil); T51.8 (Other alcohols); T51.9 (Alcohol, unspecified); X45 (Accidental"
+"poisoning by and exposure to alcohol); X65 (Intentional self-poisoning by and exposure to alcohol); Y15 (Poisoning by and"
+"exposure to alcohol, undetermined intent)"
+"Year/Month: 2019; 2020; 2021 (provisional)"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Sep 16, 2022 10:32:53 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 16, 2022 10:32:53"
+"AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"3. Deaths occurring through August 20, 2022 as of September 04, 2022."
