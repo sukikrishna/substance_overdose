@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_percentage_error
 
 # Directory containing the folders
-base_dir = "tables"
+base_dir = "../tables"
 
 # Output file
 output_file = "hyper_csv_metrics.csv"
