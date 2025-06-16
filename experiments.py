@@ -8,17 +8,18 @@ from tensorflow.keras.layers import Input, Add, ReLU, Lambda, Dense
 from tensorflow.keras.models import Model
 import tensorflow as tf
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from sklearn.preprocessing import MinMaxScaler
 from tcn import TCN  # pip install keras-tcn
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Attention
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'tcn'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated'
+MODEL_TYPE = 'sarima'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated', 'tcn_fixed'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 TRIALS_PER_CONFIG = 30
 
-LOOKBACKS = [7, 9, 11, 12]
+LOOKBACKS = [3, 5, 7, 9, 11, 12]
 BATCH_SIZES = [8, 16, 32]
 EPOCHS_LIST = [50, 100]
 
@@ -85,15 +86,33 @@ def run_lstm(train, test, look_back, batch_size, epochs, seed):
         current_input = np.append(current_input[:, 1:, :], [[[pred]]], axis=1)
     return y_test, np.array(preds)
 
+# def run_sarima(train_df, test_df):
+#     np.random.seed(seed)
+#     train_series = train_df['Deaths'].astype(float)
+#     test_series = test_df['Deaths'].astype(float)
+#     model = SARIMAX(train_series, order=(1, 1, 1), seasonal_order=(1, 1, 1, 12),
+#                     enforce_stationarity=False, enforce_invertibility=False)
+#     results = model.fit(disp=False)
+#     forecast = results.predict(start=len(train_series), end=len(train_series) + len(test_series) - 1)
+#     return test_series.values, forecast.values
+
 def run_sarima(train_df, test_df):
     np.random.seed(seed)
     train_series = train_df['Deaths'].astype(float)
     test_series = test_df['Deaths'].astype(float)
+
     model = SARIMAX(train_series, order=(1, 1, 1), seasonal_order=(1, 1, 1, 12),
                     enforce_stationarity=False, enforce_invertibility=False)
     results = model.fit(disp=False)
+    
+    # In-sample fit (for training)
+    fitted = results.fittedvalues
+
+    # Forecast (for test)
     forecast = results.predict(start=len(train_series), end=len(train_series) + len(test_series) - 1)
-    return test_series.values, forecast.values
+    
+    return train_series.values, fitted.values, test_series.values, forecast.values
+
 
 # def run_tcn(train, test, look_back, batch_size, epochs, seed):
 #     np.random.seed(seed)
@@ -132,6 +151,53 @@ def run_tcn(train, test, look_back, batch_size, epochs, seed):
     return y_test, np.array(preds)
 
 
+
+def run_tcn_fixed(train, test, look_back, batch_size, epochs, seed):
+    np.random.seed(seed)
+    tf.random.set_seed(seed)
+
+    # Reshape and scale data
+    scaler = MinMaxScaler()
+    full_series = np.concatenate([train, test])
+    scaled_full = scaler.fit_transform(full_series.reshape(-1, 1)).flatten()
+
+    train_scaled = scaled_full[:len(train)]
+    test_scaled = scaled_full[len(train):]
+
+    def create_dataset(dataset, look_back):
+        X, y = [], []
+        for i in range(len(dataset) - look_back):
+            X.append(dataset[i:i + look_back])
+            y.append(dataset[i + look_back])
+        return np.array(X), np.array(y)
+
+    X_train, y_train = create_dataset(train_scaled, look_back)
+
+    X_train = X_train.reshape((X_train.shape[0], look_back, 1))
+
+    model = Sequential([
+        TCN(input_shape=(look_back, 1)),
+        Dense(1, activation='relu')  # ensures non-negative output
+    ])
+    model.compile(optimizer='adam', loss='mean_squared_error')
+    model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, verbose=0)
+
+    # Generate predictions
+    preds = []
+    current_input = train_scaled[-look_back:].reshape((1, look_back, 1))
+    for _ in range(len(test_scaled)):
+        pred = model.predict(current_input, verbose=0)[0][0]
+        preds.append(pred)
+        current_input = np.append(current_input[:, 1:, :], [[[pred]]], axis=1)
+
+    # Inverse transform predictions
+    all_preds = scaler.inverse_transform(np.array(preds).reshape(-1, 1)).flatten()
+
+    # Get original unscaled test ground truth for comparison
+    y_test = full_series[len(train):len(train)+len(test)]
+
+    return y_test, all_preds
+    
 
 # UPDATED IMPLEMENTATION BELOW REFERENCING: https://pmc.ncbi.nlm.nih.gov/articles/PMC8044508/pdf/10489_2021_Article_2359.pdf
 
