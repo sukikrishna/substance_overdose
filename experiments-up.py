@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Conv1D, Flatten, GRU
-from tensorflow.keras.layers import RepeatVector
+from tensorflow.keras.layers import RepeatVector, Concatenate
 from tensorflow.keras.layers import Input, Add, ReLU, Lambda, Dense, Dropout, BatchNormalization
 from tensorflow.keras.layers import LayerNormalization, MultiHeadAttention
 from tensorflow.keras.models import Model
@@ -19,7 +19,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 import math
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'seq2seq_attn'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated', 'tcn_fixed', 'seq2seq_attn'
+MODEL_TYPE = 'transformer'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated', 'tcn_fixed', 'seq2seq_attn'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 TRIALS_PER_CONFIG = 30
