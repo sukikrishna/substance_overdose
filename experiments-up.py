@@ -333,8 +333,6 @@ def run_transformer(train, test, look_back, batch_size, epochs, seed, d_model=64
     return y_test, preds_original
 
 
-# Add placeholder function for transformer if needed
-
 data = load_and_preprocess_data()
 train_data, validation_data, test_data = create_train_val_test_split_lstm(data)
 
