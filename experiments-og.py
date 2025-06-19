@@ -16,12 +16,12 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import EarlyStopping
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'tcn_updated'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated', 'tcn_fixed'
+MODEL_TYPE = 'seq2seq'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'transformer', 'tcn_updated', 'tcn_fixed'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 TRIALS_PER_CONFIG = 30
 
-LOOKBACKS = [11, 12]
+LOOKBACKS = [3, 5, 7, 9, 11, 12]
 BATCH_SIZES = [8, 16, 32]
 EPOCHS_LIST = [50, 100]
 

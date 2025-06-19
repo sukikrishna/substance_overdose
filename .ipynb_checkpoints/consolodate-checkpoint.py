@@ -118,10 +118,10 @@ def process_all_models(model_names, results_dir='results'):
 # Main execution
 if __name__ == "__main__":
     
-    # MODEL_NAMES = ['lstm', 'sarima', 'tcn', 'seq2seq', 'tcn_updated']
+    MODEL_NAMES = ['lstm', 'tcn', 'tcn_updated', 'tcn_fixed']
     
     # Process all models
-    # process_all_models(MODEL_NAMES)
+    process_all_models(MODEL_NAMES)
 
     # Process single model
-    consolidate_single_model('lstm')
+    # consolidate_single_model('lstm')
