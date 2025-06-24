@@ -1,0 +1,2 @@
+Total_Models,Training_Period,Test_Period,Training_Samples,Test_Samples,Total_Samples,Models_Evaluated
+5,2015-01-01 00:00:00 to 2019-12-01 00:00:00,2020-01-01 00:00:00 to 2020-12-01 00:00:00,60,12,72,"['SARIMA', 'LSTM', 'TCN', 'Seq2Seq_Attention', 'Transformer']"

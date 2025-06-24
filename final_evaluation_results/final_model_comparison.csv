@@ -1,0 +1,6 @@
+,test_mean_rmse,test_std_rmse,test_mean_mape,test_std_mape,seeds_completed
+sarima,1594.3318,0.0,24.4318,0.0,5.0
+lstm,1305.453,12.0124,18.2873,0.214,5.0
+tcn,3386.6932,1748.9247,46.9131,19.0248,5.0
+seq2seq_attn,1759.0692,7.8382,26.4789,0.1451,5.0
+transformer,1786.8885,27.3552,26.9152,0.5037,5.0

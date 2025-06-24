@@ -1,0 +1,6 @@
+,mean_rmse_across_seeds,std_rmse_across_seeds,mean_mae_across_seeds,std_mae_across_seeds,mean_mape_across_seeds,std_mape_across_seeds,seeds_completed
+transformer,1806.6908,12.8249,1650.2106,14.0183,27.2703,0.2451,5.0
+sarima,1594.3318,0.0,1468.6254,0.0,24.4318,0.0,5.0
+lstm,1312.5516,29.163,1126.4584,27.7337,18.3506,0.4862,5.0
+tcn,2590.7732,220.7843,2261.2977,186.6452,38.007,3.2355,5.0
+seq2seq_attn,1742.037,6.4221,1575.9138,6.8295,25.9539,0.1183,5.0
