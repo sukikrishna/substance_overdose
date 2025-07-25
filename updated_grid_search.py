@@ -66,8 +66,13 @@ def load_and_preprocess_data():
         df['Month_Code'] = pd.to_numeric(df['Month_Code'], errors='coerce')
         df['Year_Code'] = pd.to_numeric(df['Year_Code'], errors='coerce')
         
-        # Create proper datetime
-        df['Month'] = pd.to_datetime(df[['Year_Code', 'Month_Code']].assign(day=1))
+        # Create proper datetime with correct column names
+        date_df = pd.DataFrame({
+            'year': df['Year_Code'],
+            'month': df['Month_Code'], 
+            'day': 1
+        })
+        df['Month'] = pd.to_datetime(date_df)
         print("✓ Created Month column from Year_Code and Month_Code")
     
     elif 'Month' in df.columns:
