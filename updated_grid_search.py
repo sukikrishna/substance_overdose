@@ -48,24 +48,84 @@ RESULTS_DIR = 'results_updated'
 
 # ------------------ HELPER FUNCTIONS ------------------ #
 def load_and_preprocess_data():
-    """Load the preprocessed data from updated path"""
+    """Load the preprocessed data from updated path with proper date handling"""
     df = pd.read_excel(DATA_PATH)
     
-    # Assuming the data is already preprocessed with Month and Deaths columns
-    # Convert Month to datetime if it's not already
-    if not pd.api.types.is_datetime64_any_dtype(df['Month']):
-        df['Month'] = pd.to_datetime(df['Month'])
+    print(f"Raw data shape: {df.shape}")
+    print(f"Columns: {list(df.columns)}")
+    print("First few rows:")
+    print(df.head())
     
-    # Handle any suppressed values if they exist
+    # Handle different possible column names and structures
+    if 'Sum of Deaths' in df.columns:
+        df = df.rename(columns={'Sum of Deaths': 'Deaths'})
+    
+    # Create proper date column from Year_Code and Month_Code if available
+    if 'Year_Code' in df.columns and 'Month_Code' in df.columns:
+        # Convert Month_Code to integer if it's a string
+        df['Month_Code'] = pd.to_numeric(df['Month_Code'], errors='coerce')
+        df['Year_Code'] = pd.to_numeric(df['Year_Code'], errors='coerce')
+        
+        # Create proper datetime
+        df['Month'] = pd.to_datetime(df[['Year_Code', 'Month_Code']].assign(day=1))
+        print("✓ Created Month column from Year_Code and Month_Code")
+    
+    elif 'Month' in df.columns:
+        # Try different approaches to handle the Month column
+        try:
+            # First, try direct conversion
+            df['Month'] = pd.to_datetime(df['Month'])
+            print("✓ Direct datetime conversion successful")
+        except:
+            try:
+                # If direct conversion fails, try with specific format
+                df['Month'] = pd.to_datetime(df['Month'], format='%m/%d/%Y')
+                print("✓ Datetime conversion with format successful")
+            except:
+                try:
+                    # Try converting from Excel serial date
+                    df['Month'] = pd.to_datetime(df['Month'], unit='D', origin='1899-12-30')
+                    print("✓ Excel serial date conversion successful")
+                except:
+                    # If all else fails, try parsing as string
+                    df['Month'] = pd.to_datetime(df['Month'], errors='coerce')
+                    print("✓ Coerced datetime conversion (some may be NaT)")
+    else:
+        print("✗ No suitable date column found!")
+        print(f"Available columns: {list(df.columns)}")
+        raise ValueError("Cannot find or create a proper date column")
+    
+    # Handle Deaths column
+    if 'Deaths' not in df.columns:
+        print("✗ Deaths column not found!")
+        print(f"Available columns: {list(df.columns)}")
+        raise ValueError("Deaths column not found")
+    
+    # Clean Deaths column
     if df['Deaths'].dtype == 'object':
-        df['Deaths'] = df['Deaths'].apply(lambda x: 0 if x == 'Suppressed' else int(x))
+        df['Deaths'] = df['Deaths'].apply(lambda x: 0 if x == 'Suppressed' else float(x))
+    else:
+        df['Deaths'] = pd.to_numeric(df['Deaths'], errors='coerce')
+    
+    # Remove any rows with invalid dates or deaths
+    initial_rows = len(df)
+    df = df.dropna(subset=['Month', 'Deaths'])
+    final_rows = len(df)
+    
+    if initial_rows != final_rows:
+        print(f"⚠ Removed {initial_rows - final_rows} rows with invalid data")
+    
+    # Keep only Month and Deaths columns
+    df = df[['Month', 'Deaths']].copy()
     
     # Sort by date to ensure proper time series order
     df = df.sort_values('Month').reset_index(drop=True)
     
-    print(f"Loaded data shape: {df.shape}")
-    print(f"Date range: {df['Month'].min()} to {df['Month'].max()}")
-    print(f"Deaths range: {df['Deaths'].min()} to {df['Deaths'].max()}")
+    print(f"✓ Final data shape: {df.shape}")
+    print(f"✓ Date range: {df['Month'].min()} to {df['Month'].max()}")
+    print(f"✓ Deaths range: {df['Deaths'].min()} to {df['Deaths'].max()}")
+    print("✓ First few rows of processed data:")
+    print(df.head())
     
     return df
 
